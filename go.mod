@@ -1,5 +1,5 @@
 module github.com/jabolopes/par
 
-go 1.19
+go 1.21
 
-require golang.org/x/sync v0.2.0
+require golang.org/x/sync v0.4.0
